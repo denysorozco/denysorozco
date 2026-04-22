@@ -2,7 +2,7 @@
 ![https://github.com/denysorozco](./denysorozco_github_profile.png)
 #### ... desde Guatemala.
 
-[![YouTube Channel Introduccion a javaSE](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/@introduccionajava?si=UT6fQ9EDgE_wokpA?sub_confirmation=1)
+[![YouTube Channel Suscribers](https://img.shields.io/youtube/channel/IntroduccionAJavaFX/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/@introduccionajava?si=UT6fQ9EDgE_wokpA?sub_confirmation=1)
 <!--
 **denysorozco/denysorozco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
